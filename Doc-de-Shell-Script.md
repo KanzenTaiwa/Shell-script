@@ -2,13 +2,11 @@
 
 # Prefácio
 
- Shell do inglês “casca” nesse caso de um sistema operacional, é onde a maioria ou quase todos os processos acontecem,  e claro você pode usar isso ao
- seu favor para por exemplo criar um arquivo que pode ser lido no “shell” que é apelidado de “Script”, no caso “Shell Script”, um script pode 
- funcionar de inúmeras maneiras inclusive para automação de processos no linux ou no windows por exemplo.
- E claro esse processo requer um conhecimento sobre o sistema, que no nosso caso é o linux ou melhor dizendo, Unix, já que o linux é da família unix,
-e no windows o processo é semelhante em alguns pontos, como o comando echo que serve pra mostrar algo na tela.
- Lembrando que normalmente se caso você precisar de ajuda em relação o que cada comando faz a mais você pode colocar **--help** na frente de 
- determinado comando..
+  O interpretador do Shell permite que o operador introduza comandos que serão interpretados pelo "Bash" (Bourne Again Shell), no "shell" é possivel 
+monitorar e alterar maioria dos processos que acontecem no sistema operacional incluindo o kernel, o interpretador "Bash" contém uma sintaxe que é
+utilizada para automátizar processos, seja de atualização, execução, automação, o uníco limite aqui assim como a maior parte das linguagens de programação 
+é sua imaginação. 
+ Em caso de ajuda consulte (se possível) o binário "man" que contém as páginas do manual sobre o determinado comando a ser usado ou a "flag" "--help"
  Exemplo: mkdir --help
 ___
 
