@@ -1,2 +1,2 @@
-## Documentação da linguagem de Script Shell (Bash)
+## Documentação da linguagem de Script Bash
 
